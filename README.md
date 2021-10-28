@@ -32,9 +32,9 @@ Seja bem-vindo à minha página do GitHub! Eu sou o Mike e atualmente estou term
 </p>
 <br />
 
-[<img src="https://spotify-playing-now-one.vercel.app/api/spotify-playing-now" width="350" />]()
+### :headphones: Ouvindo nesse instante
+[![Spotify](https://spotify-playing-now-one.vercel.app/api/spotify)](https://open.spotify.com/user/31lcxg662yrxuq5ty5vshkga4pp4)
 
-:construction: Perfil em obras... Vamos tomar um café? :construction:
 <!--
 **Mr-maike/Mr-maike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
