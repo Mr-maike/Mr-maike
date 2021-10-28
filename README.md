@@ -31,6 +31,9 @@ Seja bem-vindo à minha página do GitHub! Eu sou o Mike e atualmente estou term
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
 <br />
+
+[<img src="https://spotify-playing-now-one.vercel.app/api/spotify-playing-now" width="350" />]()
+
 :construction: Perfil em obras... Vamos tomar um café? :construction:
 <!--
 **Mr-maike/Mr-maike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
