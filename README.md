@@ -32,7 +32,7 @@ Seja bem-vindo à minha página do GitHub! Eu sou o Mike e atualmente estou term
 </p>
 <br />
 
-### :headphones: Ouvindo nesse instante
+#### :headphones: Ouvindo nesse instante
 [![Spotify](https://spotify-playing-now-one.vercel.app/api/spotify)](https://open.spotify.com/user/31lcxg662yrxuq5ty5vshkga4pp4)
 
 <!--
