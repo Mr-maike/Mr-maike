@@ -1,19 +1,12 @@
-### Olá, meu nome é Mike! :shipit:
+### Hello, I´m Maike Amaral :vulcan_salute:
 
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maike.h.belarmino@gmail.com)
+I'm a software developer and student of technology and exact sciences! 
 
-Seja bem-vindo à minha página do GitHub! Eu sou o Mike e atualmente estou terminando o Ensino Médio
+#### 🔭 I’m currently working on: 
+  - 📚 Studying Python, C and C++;
+  - 🚀 Working on automation projects.
 
-
-
-#### 🌱 Coisas que estou trabalhando atualmente:
-  - Finalização do Ensino médio;
-  - Estudando as linguagens de programação C, C++ e Python;
-  - Trabalhando em projetos de automação 🚀
-
-#### :computer: Linguagens de programação e ferramentas: 
+#### :computer: Skills: 
 <p>
   
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-maike&show_icons=true&hide_border=true" />
@@ -32,8 +25,10 @@ Seja bem-vindo à minha página do GitHub! Eu sou o Mike e atualmente estou term
 </p>
 <br />
 
-#### :headphones: Ouvindo nesse instante
-[![Spotify](https://spotify-playing-now-one.vercel.app/api/spotify)](https://open.spotify.com/user/31lcxg662yrxuq5ty5vshkga4pp4)
+#### 📬 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maike.h.belarmino@gmail.com)
 
 <!--
 **Mr-maike/Mr-maike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
