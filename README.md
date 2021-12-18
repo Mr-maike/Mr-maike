@@ -1,12 +1,13 @@
-### Hello, I´m Maike Amaral :vulcan_salute:
+## Hello, I´m Maike Amaral :vulcan_salute:
 
-I'm a software developer and student of technology and exact sciences! 
+I'm a software developer, Pythonist and student of technology and exact sciences! 
 
 #### 🔭 I’m currently working on: 
   - 📚 Studying Python, C and C++;
-  - 🚀 Working on automation projects.
+  - 🚀 Working on automation projects;
+  - 📝 working on [Doorlock](https://github.com/Mr-maike/DoorLock), [Portfolio](https://github.com/Mr-maike/portfolio) and [Calculus](https://github.com/Mr-maike/Calculus)
 
-#### :computer: Skills: 
+### :computer: Skills: 
 <p>
   
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-maike&show_icons=true&hide_border=true" />
@@ -25,10 +26,11 @@ I'm a software developer and student of technology and exact sciences!
 </p>
 <br />
 
-#### 📬 How to reach me:
+### 📬 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maike.h.belarmino@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr__maike__/)
 
 <!--
 **Mr-maike/Mr-maike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
