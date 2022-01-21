@@ -5,7 +5,7 @@ I'm a software developer, Pythonist and student of technology and exact sciences
 #### 🔭 I’m currently working on: 
   - 📚 Studying Python, C and C++;
   - 🚀 Working on automation projects;
-  - 📝 working on [Doorlock](https://github.com/Mr-maike/DoorLock).
+  - 📝 working on [Doorlock](https://github.com/Mr-maike/DoorLock) and [MrNotepad](https://github.com/Mr-maike/MrNotepad).
 
 ### :computer: Skills: 
 <p>
