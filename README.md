@@ -1,4 +1,4 @@
-## Hello, I´m Maike Amaral :vulcan_salute:
+<div align="center"> <h1>Hello, I´m Maike Amaral :vulcan_salute:</h1></div>
 
 I'm a software developer, Pythonist and student of technology and exact sciences! 
 
