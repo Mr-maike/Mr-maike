@@ -5,7 +5,7 @@ I'm a software developer, Pythonist and student of technology and exact sciences
 #### 🔭 I’m currently working on: 
   - 📚 Studying Python, Java and Javascript;
   <!--- 📝 Working on automation projects; -->
-  - 🚀 working on [Shimeji](https://github.com/Mr-maike/Mushroom-Stove) and [MrNotepad](https://github.com/Mr-maike/MrNotepad).
+  - 🚀 working on [Shimeji](https://github.com/Mr-maike/Shimeji) and [MrNotepad](https://github.com/Mr-maike/MrNotepad).
 
 ### :computer: Skills: 
 <p>
