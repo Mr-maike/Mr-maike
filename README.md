@@ -1,50 +1,43 @@
-<div align="center"> <h1>Hello, I´m Maike Amaral :vulcan_salute:</h1></div>
+```bash
+visitor@github:~$ cat about_me.txt
+```
 
-I'm a software developer, Pythonist and student of technology and exact sciences! 
+<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </div>
 
-#### 🔭 I’m currently working on: 
-  - 📚 Studying Python, Java and Javascript;
-  <!--- 📝 Working on automation projects; -->
-  - 🚀 working on [Shimeji](https://github.com/Mr-maike/Shimeji) and [MrNotepad](https://github.com/Mr-maike/MrNotepad).
+<h2>🚀 Sobre Mim</h2>
 
-### :computer: Skills: 
-<p>
-  
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-maike&show_icons=true&hide_border=true" />
-  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-</p>
-<br />
+```bash
+visitor@github:~S whoami
+```
+<p>Sou um estudante de Ciências Exatas e Desenvolvedor apaixonado por automação, implementação de softwares e soluções criativas.</p>
 
-### 📬 How to reach me:
+```bash
+visitor@github:~S ls -la skills/
+```
+* Linguagens: Python, JavaScript, C/C++, Bash
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maike.h.belarmino@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr__maike__/)
+* Tecnologias: Node.js
 
-<!--
-**Mr-maike/Mr-maike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Ferramentas: Git, Vim, VS Code
 
-Here are some ideas to get you started:
+* Sistemas: Linux (Ubuntu), Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
-  <img width="45%%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-maike&theme=blue-green">
--->
+<h2>📊 Estatísticas do GitHub</h2>
+
+```bash
+visitor@github:~$ github-stats --user Mr-maike
+```
+
+<div class="container-images" style=".container-images{display:flex; justify-content: space-between;} .container-imagens img{width: 50%;}">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-maike&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-maike&layout=compact&theme=dark">
+</div>
+
+```bash
+visitor@github:~$ exit
+Connection closed.
+```
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mr-maike5D&color=green&style=flat-square">
+</div>
