@@ -19,16 +19,16 @@ visitor@github:~S ls -la skills/
 <div class="container-images" style=".container-images{display:flex; justify-content: space-between;} .container-imagens img{width: 50%;}">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white">
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white">
 </div>
 
 * Tecnologias:
 
 <div class="container-images" style=".container-images{display:flex; justify-content: space-between;} .container-imagens img{width: 50%;}">
-  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
 </div>
 
@@ -43,6 +43,7 @@ visitor@github:~S ls -la skills/
 <div class="container-images" style=".container-images{display:flex; justify-content: space-between;} .container-imagens img{width: 50%;}">
   <img src="https://img.shields.io/badge/Xubuntu-0044AA.svg?style=for-the-badge&logo=Xubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
 <h2>📊 |  Estatísticas do GitHub</h2>
