@@ -2,7 +2,11 @@
 visitor@github:~$ cat about_me.txt
 ```
 
-<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </div>
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bash" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </div>
 
 <h2>🚀 |  Sobre Mim</h2>
 
@@ -53,8 +57,8 @@ visitor@github:~$ github-stats --user Mr-maike
 ```
 
 <div class="container-images" style=".container-images{display:flex; justify-content: space-between;} .container-imagens img{width: 50%; margin-right:100px;}">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-maike&show_icons=true&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-maike&layout=compact&theme=dark">
+  <img src="https://readme-stats-github.pages.dev/api?username=Mr-maike&theme=shadow">
+  <img src="">
 </div>
 
 <h2>📫 | Onde me Encontrar? </h2>
