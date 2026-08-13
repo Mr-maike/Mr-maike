@@ -58,7 +58,7 @@ visitor@github:~$ github-stats --user Mr-maike
 
 <div class="container-images" style=".container-images{display:flex; justify-content: space-between;} .container-imagens img{width: 50%; margin-right:100px;}">
   <img src="https://readme-stats-github.pages.dev/api?username=Mr-maike&theme=shadow">
-  <img src="">
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Mr-maike&theme=shadow">
 </div>
 
 <h2>📫 | Onde me Encontrar? </h2>
